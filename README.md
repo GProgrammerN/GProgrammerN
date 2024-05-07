@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GProgrammerN&show_icons=true&theme=radical)
 ### Redes
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)]()
+)](https://br.linkedin.com/in/guilherme-horta-nacci)
 
 ### Tecnologias que utilizo:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
